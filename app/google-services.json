@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417000883624",
+    "project_id": "trade-app-2b645",
+    "storage_bucket": "trade-app-2b645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417000883624:android:06e607b15e01c3eb52099d",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.tradeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417000883624-1rujeavp4rte9k2frumbt03hus4c0odk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy0e20YyEK0wPTNdSlScm-ybRUahxITkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417000883624-1rujeavp4rte9k2frumbt03hus4c0odk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
